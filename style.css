@@ -1,0 +1,122 @@
+
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+ body {
+	background-color: #fff;
+ }
+
+
+
+h1 { 
+	font-family: "impact", sans-serif;
+	font-size: 6em;
+	margin-bottom: 23px;
+	text-align: center;
+	
+ }
+
+ h2 {
+ 	font-family: "underdog";
+ 	font-style: bold;
+	
+ }
+
+ h3 {
+ 	font-family: "underdog";
+ 	font-style: bold;
+ 	font-size: 4em;
+ }
+
+#header {
+
+	background-color: #a360da;
+	text-align:center;
+	padding: 30px;
+	background-image: url("mountains.png"); 
+	background-size: 450px 200px;
+
+}
+
+#homecarousel {
+
+	height: 92%;
+	width: 92%;
+	align-items: center;
+	margin-top: 30px;
+	margin-left: 30px;
+
+}
+
+#gallerycarousel {
+	height:60%;
+	width: 60%;
+	margin-left: 310px;
+
+}
+
+
+#joinbutton {
+
+	text-align: center;
+	outline-color: darkblue;
+	font-family: "oswald";
+	font-size: 30px
+}
+
+
+p {
+
+	border-radius: 10px;
+}
+
+
+
+#leftside {
+	margin-top: 30px;
+}
+
+#lilpeople {
+	margin-bottom: 35px;
+}
+
+#atjmu {
+
+	margin-left:50px;
+	margin-bottom: 10px;
+}
+
+#aboutleft {
+	padding: 20px;
+}
+
+#right {
+	
+}
+
+#aboutright {
+	padding: 20px;
+}
+
+#navtext {
+	font-family: "underdog";
+	font-size: 1.2em;
+}
+
+.frontpage {
+
+	color: #702ba8;
+	font-size: 25px;
+	font-family: "oswald";
+	border-style: solid;
+	border-radius: 8px;
+	padding: 10px;
+}
+
+
+footer {
+
+	font-family: "underdog";
+	background-color: palegoldenrod;
+	margin-top: 30px;
+}
